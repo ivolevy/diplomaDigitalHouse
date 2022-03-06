@@ -4,7 +4,7 @@ html{
 
 .diplomaDiv {
     background-color: rgb(226, 226, 221);
-    margin-top: 62px;
+    margin-top: 4%;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -12,6 +12,6 @@ html{
   }
   
   .diplomaImg {
-      height: 600px;
-      width: 900px;
+      height: 60%;
+      width: 60%;
   }
