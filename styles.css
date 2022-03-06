@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(192, 187, 187);
+}
+
+.diplomaDiv {
+    background-color: rgb(226, 226, 221);
+    margin-top: 62px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .diplomaImg {
+      height: 600px;
+      width: 900px;
+  }
